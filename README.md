@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # spotipy
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# tugas-uas-pengembangan-berbasis-flatfrom
+>>>>>>> 6e60df34ccff807cd16f11719f8c549ffb81e322
